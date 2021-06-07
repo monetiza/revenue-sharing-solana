@@ -53,7 +53,7 @@ pub enum RevenueSharingInstruction {
     /// 2. `[writable]`
     ///    * Shared account: token account that holds tokens to be shared between members
     /// 
-    /// 3. `[writable]` 
+    /// 3. `[]` 
     ///    * Destination account of withdraw
     /// 
     /// 4. `[]` The token program account
